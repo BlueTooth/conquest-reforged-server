@@ -1,4 +1,4 @@
-FROM bluetooth:minecraft-server
+FROM bluetooth/minecraft-server
 
 MAINTAINER BlueTooth
 
